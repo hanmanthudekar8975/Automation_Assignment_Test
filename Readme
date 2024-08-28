@@ -1,0 +1,19 @@
+Amazon Automation Test Suite
+
+This project is an automation framework designed to test the Search and Add to Cart functionalities of an Amazon
+ website. The framework is developed using Java, Selenium WebDriver, TestNG, and Maven.
+ 
+ Prerequisites to Run Script
+ 
+ Before you begin execution of this project ensure you have met the following system requirements:
+
+Java 17 or higher
+Maven 3.6 or higher
+Edge Driver Version 127.0.2651.105
+Git (to clone the repository)
+An IDE (like IntelliJ IDEA or Eclipse)
+
+Steps to Execute
+1) Clone the Project from repository
+2) Add Latest version of EdgeDriver path.
+3) Open testNG.xml file and execute
